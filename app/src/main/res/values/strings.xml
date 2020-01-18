@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">T12-CIT</string>
+    <string name="yy_qr_code">QR Code</string>
+    <string name="test_tips">点击测试按钮开始测试</string>
 </resources>

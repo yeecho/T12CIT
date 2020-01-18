@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="item_names">
+        <item>系统信息</item>
+        <item>LCD</item>
+        <item>LED</item>
+        <item>背光</item>
+        <item>TF</item>
+        <item>电磁屏</item>
+        <item>电容屏</item>
+        <item>马达</item>
+        <item>音频</item>
+        <item>SIM</item>
+        <item>G-SENSOR</item>
+        <item>电池</item>
+        <item>摄像头</item>
+        <item>按键</item>
+        <item>GPS</item>
+        <item>Host</item>
+        <item>耳机</item>
+        <item>录音</item>
+        <item>光感</item>
+        <item>DDR</item>
+        <item>EMMC</item>
+    </string-array>
+</resources>
