@@ -4,5 +4,6 @@
     <dimen name="qr_padding_left">20dp</dimen>
     <dimen name="qr_text_size">18sp</dimen>
     <dimen name="system_info_text_size">20sp</dimen>
+    <dimen name="battery_info_text_size">18sp</dimen>
     <dimen name="custom_toolbar_toBottom">20dp</dimen>
 </resources>
