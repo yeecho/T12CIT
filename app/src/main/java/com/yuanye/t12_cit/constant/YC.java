@@ -3,6 +3,7 @@ package com.yuanye.t12_cit.constant;
 import com.yuanye.t12_cit.AudioActivity;
 import com.yuanye.t12_cit.BackLightActivity;
 import com.yuanye.t12_cit.BatteryActivity;
+import com.yuanye.t12_cit.CameraActivity;
 import com.yuanye.t12_cit.DCPAcitvity;
 import com.yuanye.t12_cit.DRPActivity;
 import com.yuanye.t12_cit.DisplayActivity;
@@ -29,7 +30,8 @@ public class YC {
             AudioActivity.class,
             SimActivity.class,
             GsensorActivity.class,
-            BatteryActivity.class
+            BatteryActivity.class,
+            CameraActivity.class
     };
 
 }
