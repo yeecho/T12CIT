@@ -42,7 +42,8 @@
         <activity android:name=".GsensorActivity"/>
         <activity android:name=".BatteryActivity"/>
         <activity android:name=".CameraActivity"/>
-        
+        <activity android:name=".KeyTestActivity"/>
+
         <provider
             android:authorities="com.yuanye.t12_cit.fileprovider"
             android:name="android.support.v4.content.FileProvider"
