@@ -7,7 +7,9 @@ import com.yuanye.t12_cit.CameraActivity;
 import com.yuanye.t12_cit.DCPAcitvity;
 import com.yuanye.t12_cit.DRPActivity;
 import com.yuanye.t12_cit.DisplayActivity;
+import com.yuanye.t12_cit.GpsActivity;
 import com.yuanye.t12_cit.GsensorActivity;
+import com.yuanye.t12_cit.HostActivity;
 import com.yuanye.t12_cit.KeyTestActivity;
 import com.yuanye.t12_cit.LedActivity;
 import com.yuanye.t12_cit.SimActivity;
@@ -33,7 +35,9 @@ public class YC {
             GsensorActivity.class,
             BatteryActivity.class,
             CameraActivity.class,
-            KeyTestActivity.class
+            KeyTestActivity.class,
+            GpsActivity.class,
+            HostActivity.class
     };
 
 }
