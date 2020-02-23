@@ -46,6 +46,7 @@
         <activity android:name=".KeyTestActivity"/>
         <activity android:name=".GpsActivity"/>
         <activity android:name=".HostActivity"/>
+        <activity android:name=".HeadsetActivity"/>
 
         <provider
             android:authorities="com.yuanye.t12_cit.fileprovider"
